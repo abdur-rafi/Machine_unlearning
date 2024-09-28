@@ -4,7 +4,7 @@ import numpy as np
 import os
 from tqdm import tqdm
 
-meta_file = "data/VGG-Face2/meta/identity_meta.csv"
+meta_file = "/media/abdur-rafi/Academic/VGG-Face2/meta/identity_meta.csv"
 train_data_root = "data/VGG-Face2/data/train/"
 test_data_root = ""
 
